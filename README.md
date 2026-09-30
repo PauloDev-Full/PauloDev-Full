@@ -126,8 +126,8 @@ O projeto utiliza os padrões de projeto:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloDev-Full&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-pearl-alpha-71.vercel.app/api/top-langs/?username=PauloDev-Full&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloDev-Full&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-pearl-alpha-71.vercel.app/api/top-langs/?username=PauloDev-Full&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
