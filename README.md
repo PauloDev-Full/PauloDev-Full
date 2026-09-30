@@ -36,7 +36,6 @@ Essa experiência contribuiu para desenvolver competências como **organização
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
@@ -140,9 +139,6 @@ O projeto utiliza os padrões de projeto:
   </a>
   <a href="mailto:estudotrabalho442@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
-  <a href="https://www.dio.me/">
-    <img src="https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO"/>
   </a>
 </p>
 
