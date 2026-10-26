@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Paulo Henrique Fernandes de Jesus
 
-### 💻 Backend Software Engineer | Java & AI Integration
+### 💻  Engenheiro de Software Backend | Java & AI Integration
 
 Estudante de **Engenharia da Computação** e desenvolvedor com foco em **Backend, Java e integração com Inteligência Artificial**.
 
